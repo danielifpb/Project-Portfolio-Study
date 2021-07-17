@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <img alt="Portfólio Douglas" src=".github/preview.png" width="100%">
+  <img alt="Portfólio Douglas" src="preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
